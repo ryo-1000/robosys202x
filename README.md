@@ -21,8 +21,9 @@ $ seq 3 | ./plus
       * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 ## 必要なソフトウェア
-* Python
-  * テスト済み：3.7~3.10
+* Python 3.7~3.10
+    テスト済み
+
 
 ## テスト環境
 * ubuntu
