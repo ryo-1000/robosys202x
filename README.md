@@ -1,6 +1,10 @@
+# robosys202x
+ロボットシステム学で使っているリポジトリ
 # plusコマンド
-![test](https://github.com/ryoebisawa/robosys202x/actions/workflows/test.yml/badge.svg)
-↑ テスト結果を反映したバッジの画像が埋め込まれる。
+![test](https://github.com/ryo-1000/robosys202x/actions/workflows/test.yml/badge.svg)
+
+標準入力した数字を読み込ませていく。
+この作業を繰り返し数字を足して答えを表示する。
 
 標準入力から読み込んだ数字を足す。
 
